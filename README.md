@@ -1,6 +1,6 @@
 # Superstore-Sales-Profitability-Analysis
 
-This project performs an end-to-end exploratory data analysis (EDA) on the Superstore dataset using SQL and Excel. The objective is to identify key business drivers, profitability challenges, customer behavior patterns, discount impacts, and opportunities for revenue and margin improvement.
+This project performs an end-to-end exploratory data analysis (EDA) on the Superstore dataset using SQL and Excel. The objective is to identify key business drivers, profitability challenges, customers[...]
 
 The project follows a structured analytics workflow:  
 - Data Cleaning & Preparation  
@@ -35,10 +35,10 @@ The project follows a structured analytics workflow:
 ## Superstore-Analysis
 Superstore-Analysis<br>
 │
-├── data-wrangling<br>
+├── [data-wrangling](./data-wrangling)<br>
 │   &nbsp;&nbsp;└── Data cleaning and preparation queries<br>
 │
-├── business-analysis<br>
+├── [business-analysis](./business-analysis)<br>
 │   &nbsp;&nbsp;└── Complete analytical SQL queries<br>
 │
 ├── superstore-analysis-report<br>
