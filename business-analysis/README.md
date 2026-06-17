@@ -257,14 +257,6 @@ Flags products that:
 
 ---
 
-## Related Files
-
-- **Data Cleaning:** See companion SQL scripts for ETL processes
-- **Dashboard:** Excel dashboard for interactive visualization
-- **Data Source:** [Specify data source URL/details]
-
----
-
 ## Author & Maintenance
 
 - **Created by:** ShawayarFatma
@@ -272,7 +264,3 @@ Flags products that:
 - **Repository:** [Superstore-Sales-Profitability-Analysis-](https://github.com/ShawayarFatma/Superstore-Sales-Profitability-Analysis-)
 
 ---
-
-## Questions & Support
-
-For questions or improvements to this analysis, please refer to the project documentation or create an issue in the repository.
