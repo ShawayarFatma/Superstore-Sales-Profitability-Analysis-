@@ -35,19 +35,19 @@ The project follows a structured analytics workflow:
 ## Superstore-Analysis
 Superstore-Analysis<br>
 │
-├── Data_Wrangling.sql<br>
+├── data-wrangling<br>
 │   &nbsp;&nbsp;└── Data cleaning and preparation queries<br>
 │
-├── Business_Analysis.sql<br>
+├── business-analysis<br>
 │   &nbsp;&nbsp;└── Complete analytical SQL queries<br>
 │
-├── Superstore_Analysis_Report.pdf<br>
+├── superstore-analysis-report<br>
 │   &nbsp;&nbsp;└── SQL + Results + Business Insights<br>
 │
-├── Business_Recommendations.pdf<br>
+├── business-recommendations<br>
 │   &nbsp;&nbsp;└── Executive Summary and Recommendations<br>
 │
-├── Dashboard.xlsx<br>
+├── dashboard<br>
 │   &nbsp;&nbsp;└── Interactive Excel Dashboard<br>
 │
 └── README.md
