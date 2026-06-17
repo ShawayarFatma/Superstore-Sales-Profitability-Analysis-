@@ -90,9 +90,9 @@ Clean staging table `superstore_stage` with:
 - **Date Format Conversions**: 2 columns
 - **Column Renames**: 19 columns standardized
 
-## Next Steps
+## Author & Maintenance
 
-After data wrangling, proceed to:
-- `Business_Analysis.sql` - Analytical queries for insights
-- Dashboard development
-- Business recommendations
+- **Created by:** ShawayarFatma
+- **Project:** Superstore Sales & Profitability Analysis
+- **Repository:** [Superstore-Sales-Profitability-Analysis-](https://github.com/ShawayarFatma/Superstore-Sales-Profitability-Analysis-)
+
