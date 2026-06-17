@@ -13,7 +13,7 @@ select * from superstore_stage;
 4.Remove any columns if unnecessary (only if 100% sure that it is meaningless)
 */
 
-/*alter table superstore_stage 
+alter table superstore_stage 
 rename column "Row ID" to rowid;
 alter table superstore_stage 
 rename column "Order Date" to orderDate;
@@ -54,7 +54,7 @@ rename column "Quantity" to quantity;
 alter table superstore_stage
 rename column "Discount" to discount;
 alter table superstore_stage
-rename column "Profit" to profit;*/
+rename column "Profit" to profit;
 
 --check for duplicate records
 with cte as
