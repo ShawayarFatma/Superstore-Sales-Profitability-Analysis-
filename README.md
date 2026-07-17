@@ -52,7 +52,7 @@ Superstore-Analysis<br>
 ├── business-recommendations<br>
 │   &nbsp;&nbsp;└── Executive Summary and Recommendations<br>
 │
-├── dashboard<br>
+├── [dashboard](./dashboard)<br>
 │   &nbsp;&nbsp;└── Interactive Excel Dashboard<br>
 │
 └── README.md
