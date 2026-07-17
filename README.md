@@ -1,5 +1,10 @@
 # Superstore-Sales-Profitability-Analysis
 
+<img width="1197" height="801" alt="final-dashboard" src="https://github.com/user-attachments/assets/39c130f9-e456-44d8-aaeb-a99acbf6c982" />
+
+
+
+
 This project performs an end-to-end exploratory data analysis (EDA) on the Superstore dataset using SQL and Excel. The objective is to identify key business drivers, profitability challenges, customer behavior patterns, discount impacts, and opportunities for revenue and margin improvement.
 
 The project follows a structured analytics workflow:  
