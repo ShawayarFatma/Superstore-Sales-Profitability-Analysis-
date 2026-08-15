@@ -46,10 +46,10 @@ Superstore-Analysis<br>
 ├── [business-analysis](./business-analysis)<br>
 │   &nbsp;&nbsp;└── Complete analytical SQL queries<br>
 │
-├── superstore-analysis-report<br>
+├── [superstore-analysis-report](./superstore-analysis-report)<br>
 │   &nbsp;&nbsp;└── SQL + Results + Business Insights<br>
 │
-├── business-recommendations<br>
+├── business-recommendations(./business-recommendations)<br>
 │   &nbsp;&nbsp;└── Executive Summary and Recommendations<br>
 │
 ├── [dashboard](./dashboard)<br>
