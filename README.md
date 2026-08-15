@@ -49,7 +49,7 @@ Superstore-Analysis<br>
 ├── [superstore-analysis-report](./superstore-analysis-report)<br>
 │   &nbsp;&nbsp;└── SQL + Results + Business Insights<br>
 │
-├── business-recommendations(./business-recommendations)<br>
+├── [business-recommendations](./business-recommendations)<br>
 │   &nbsp;&nbsp;└── Executive Summary and Recommendations<br>
 │
 ├── [dashboard](./dashboard)<br>
