@@ -43,13 +43,13 @@ Superstore-Analysis<br>
 ├── [data-wrangling](./data-wrangling)<br>
 │   &nbsp;&nbsp;└── Data cleaning and preparation queries<br>
 │
-├── [business-analysis](./business-analysis)<br>
+├── [sql-analysis](./sql-analysis)<br>
 │   &nbsp;&nbsp;└── Complete analytical SQL queries<br>
 │
-├── [superstore-analysis-report](./superstore-analysis-report)<br>
+├── [business-analysis-report](./superstore-analysis-report)<br>
 │   &nbsp;&nbsp;└── SQL + Results + Business Insights<br>
 │
-├── [business-recommendations](./business-recommendations)<br>
+├── [executive-report](./business-recommendations)<br>
 │   &nbsp;&nbsp;└── Executive Summary and Recommendations<br>
 │
 ├── [dashboard](./dashboard)<br>
