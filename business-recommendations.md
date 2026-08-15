@@ -1,6 +1,6 @@
-#Business Recommendations — Executive Summary
+# Business Recommendations — Executive Summary
 
-##Overview
+## Overview
 
 This analysis of the Superstore dataset identifies two structural profitability issues — aggressive discounting and a chronically underperforming Furniture category — alongside three growth opportunities in customer retention and product mix. The recommendations below are ranked by expected impact and ease of implementation.
 
