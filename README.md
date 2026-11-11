@@ -55,6 +55,9 @@ Superstore-Analysis<br>
 ├── [dashboard](./dashboard)<br>
 │   &nbsp;&nbsp;└── Interactive Excel Dashboard<br>
 │
+├── [powerbi-report](./powerbi-report)<br>
+│   &nbsp;&nbsp;└── Executive Report and Dashboard in PowerBi <br>
+│
 └── [README.md](./README.md)
 
 ## Dashboard
