@@ -17,6 +17,11 @@ This folder contains the Power BI dashboard report for the Superstore Sales and 
 
 - Power BI report: [Sales & Profitability Analysis](./superstoreBI.pbix)
 
+## Data Model & DAX
+
+- **Star schema:** [View the data model screenshot](./data-model-star-schema.png), showing the relationships between the fact and dimension tables.
+- **DAX documentation:** [View the DAX queries and measures](./dax-queries.docx).
+
 ## Using the report
 
 1. Download the `.pbix` file from this folder.
