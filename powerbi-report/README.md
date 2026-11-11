@@ -4,20 +4,18 @@ This folder contains the Power BI dashboard report for the Superstore Sales and 
 
 ## Dashboard screenshots
 
-Add screenshots of the dashboard to this section. Save the image files in this folder's `screenshots/` directory, then update the paths below if needed.
+###  Sales and Profitability Details
 
-### Dashboard overview
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 at 3 06 19 PM" src="https://github.com/user-attachments/assets/6d17bc49-c3ae-4226-93f7-6e7379e8e08a" />
 
-![Dashboard overview](dashboard-overview.png)
+### Regional Analysis
 
-### Sales and profitability details
-
-![Sales and profitability details](sales-profitability.png)
+<img width="1920" height="1080" alt="Screenshot 2026-11-11 at 3 17 53 PM" src="https://github.com/user-attachments/assets/11699caa-5e22-4e39-b363-536e9c58c5dc" />
 
 
 ## Report file
 
-- Power BI report: [Superstore](/superstoreBI.pbix)
+- Power BI report: [Sales & Profitability Analysis](./superstoreBI.pbix)
 
 ## Using the report
 
