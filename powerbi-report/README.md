@@ -1,6 +1,6 @@
 # Power BI Dashboard Report
 
-This folder contains the Power BI dashboard report for the Superstore Sales and Profitability Analysis project.
+This folder contains the interactive Power BI dashboard for the Superstore Sales and Profitability Analysis project. The report uses a star-schema data model and DAX measures to explore sales performance, profit trends, and results across categories, regions, and states. It helps identify revenue drivers and underperforming areas to support data-driven decisions.
 
 ## Dashboard screenshots
 
