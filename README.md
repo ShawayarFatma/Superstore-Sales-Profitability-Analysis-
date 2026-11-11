@@ -52,7 +52,7 @@ Superstore-Analysis<br>
 ├── [executive-report](./executive-report/business-recommendations.md)<br>
 │   &nbsp;&nbsp;└── Executive Summary and Recommendations<br>
 │
-├── [dashboard](./dashboard)<br>
+├── [excel-dashboard](./excel-dashboard)<br>
 │   &nbsp;&nbsp;└── Interactive Excel Dashboard<br>
 │
 ├── [powerbi-report](./powerbi-report)<br>
